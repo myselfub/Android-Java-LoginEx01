@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginEx01</string>
+    <string name="google_client_id"></string>
+    <string name="facebook_app_id"></string>
+    <string name="fb_login_protocol_scheme"></string>
+    <string name="naver_oauth_client_id"></string>
+    <string name="naver_oauth_client_secret"></string>
+    <string name="naver_oauth_client_name"></string>
+</resources>
